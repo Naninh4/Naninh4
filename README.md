@@ -1,2 +1,2 @@
 - 🌱 Cursando médio técnico em Informática - IFRN/Campus-Pau dos Ferros
-- Não sei o que estou fazendo aqui, falaram que era bom eu ter uma conta, então cá estou 
+- Python, Java, React Native, html/CSS, Django e SQL
