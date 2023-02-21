@@ -1,2 +1,2 @@
-- 🌱 Cursando médio técnico em Informática - IFRN/Campus-Pau dos Ferros
+- 🌱 Técnica em Informática - IFRN/Campus-Pau dos Ferros
 - Python, Java, React Native, html/CSS, Django e SQL
